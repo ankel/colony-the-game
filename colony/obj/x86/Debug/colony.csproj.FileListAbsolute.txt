@@ -1,0 +1,11 @@
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\obj\x86\Debug\colony.Form1.resources
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\obj\x86\Debug\colony.Properties.Resources.resources
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\bin\Debug\colony.exe
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\bin\Debug\colony.pdb
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\obj\x86\Debug\colony.exe
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\obj\x86\Debug\colony.pdb
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\bin\Debug\nunit.framework.dll
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\colony\colony\bin\Debug\nunit.framework.xml
